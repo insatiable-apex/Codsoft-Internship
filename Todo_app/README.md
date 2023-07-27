@@ -2,7 +2,7 @@ Todo-List for maintating important task or your schedule . This list can create 
 
 Tools used - Python , Tkinter (Python GUI Lib)
 
-<img align="left" width="671" alt="image" src="https://github.com/insatiable-apex/Codsoft-Internship/assets/77205366/b908eb27-9ebe-4c69-b0a8-8bcbc3e2153e"><br /><br />
+<img align="left" width="671" alt="image" src="https://github.com/insatiable-apex/Codsoft-Internship/assets/77205366/b908eb27-9ebe-4c69-b0a8-8bcbc3e2153e"><br /><br /><br />
 
 <img align="right" width="673" alt="image" src="https://github.com/insatiable-apex/Codsoft-Internship/assets/77205366/cac986e8-c2a7-4b9d-a95f-2f6dc6f5e432"><br /> <br />
 
